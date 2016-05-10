@@ -1,0 +1,18 @@
+Code Book:
+This code book describes the data, features, and labels, describing the different activities such as walking, running, and sitting.  The goal is to clean the dataset into a tidy dataset.
+The steps to clean the data is described in the readme file.
+Features:
+There are 561 feature names.
+Labels:
+There are  6 output labels which are WALKING, WALKING_UPSTAIRS,  WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
+
+Steps to clean the untidy data:
+
+1)   Merges the training and the test sets to create one data set.
+2)  Extracts only the measurements on the mean and standard deviation for each   
+          measurement.
+3)  Uses descriptive activity names to name the activities in the data set
+4)   Appropriately labels the data set with descriptive variable names.
+5)   Creates a second, independent tidy data set with the average of each variable for each 
+         activity and each subject.
+
