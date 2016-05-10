@@ -1,5 +1,5 @@
 Code Book:
-This code book describes the data, features, and labels, describing the different activities such as walking, running, and sitting.  The goal is to clean the dataset into a tidy dataset.
+The original dataset is from the original data source (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  This code book describes the data, features, and labels, describing the different activities such as walking, running, and sitting.  The goal is to clean the dataset into a tidy dataset.
 The steps to clean the data is described in the readme file.
 Features:
 There are 561 feature names.
